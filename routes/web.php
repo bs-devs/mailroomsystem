@@ -11,8 +11,13 @@
 |
 */
 
-Route::get('/', 'SiteController@index');
-
+/**
+ * Auth Routes
+ */
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+/**
+ * Pages Routes
+ */
+Route::get('/', 'SiteController@index');
+Route::get('/index', 'SiteController@index');
