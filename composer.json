@@ -1,10 +1,10 @@
 {
-    "name": "laravel/laravel",
+    "name": "bsdev/mailroomsystem",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Mail Room System",
     "keywords": [
-        "framework",
-        "laravel"
+        "mailroomsystem",
+        "bsdev"
     ],
     "license": "MIT",
     "require": {
