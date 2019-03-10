@@ -23,6 +23,6 @@
         "vue": "^2.5.17"
     },
     "dependencies": {
-        "admin-lte": "^2.4.9"
+        "admin-lte": "^3.0.0-alpha.2"
     }
 }
